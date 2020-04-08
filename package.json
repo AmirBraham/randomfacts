@@ -14,7 +14,7 @@
   "author": "Amir Braham",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.18.1",
     "esm": "^3.2.20"
   }
 }
